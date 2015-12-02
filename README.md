@@ -1,0 +1,4 @@
+# GoodBadNamePrediction
+## Requirements
+  Weka
+  
